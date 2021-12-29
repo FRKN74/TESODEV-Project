@@ -1,6 +1,6 @@
 # TESODEV-Project
 
-İMPOTTENT AREA 
+İMPORTENT AREA 
 
 url detail 
 
