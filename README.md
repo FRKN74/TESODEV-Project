@@ -5,7 +5,9 @@
 url detail 
 
 /
+
 /list
+
 /detail
 
 three pages are available 
